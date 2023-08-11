@@ -1,2 +1,0 @@
-# Skin disease analysing app
- 
